@@ -1,0 +1,25 @@
+.title{
+  font-size: 2rem;
+  font-weight: 500;
+  padding: 20px;
+}
+
+.employee{
+  border: 1px solid #ccc;
+  padding: 8px;
+  margin: 8px 0;
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.emmployee-form{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  border: 1px solid #ccc;
+  width: 200px;
+  margin: auto;
+  padding: 20px;
+}
