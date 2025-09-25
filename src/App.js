@@ -1,10 +1,10 @@
 import './App.css';
-import SalaryApp2 from './components/SalaryApp2';
+import SalaryApp from './components/SalaryApp';
 
 function App() {
   return (
     <div>
-      <SalaryApp2/>
+      <SalaryApp/>
     </div>
   );
 }
